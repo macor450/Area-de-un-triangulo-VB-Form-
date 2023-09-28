@@ -1,0 +1,12 @@
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\bin\Debug\Area de un triangulo(VB)Form.exe.config
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\bin\Debug\Area de un triangulo(VB)Form.exe
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\bin\Debug\Area de un triangulo(VB)Form.pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\bin\Debug\Area de un triangulo(VB)Form.xml
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\obj\Debug\Area de un triangulo(VB)Form.vbproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\obj\Debug\Area_de_un_triangulo_VB_Form.Form1.resources
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\obj\Debug\Area_de_un_triangulo_VB_Form.Resources.resources
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\obj\Debug\Area de un triangulo(VB)Form.vbproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\obj\Debug\Area de un triangulo(VB)Form.vbproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\obj\Debug\Area de un triangulo(VB)Form.exe
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\obj\Debug\Area de un triangulo(VB)Form.xml
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un triangulo(VB)Form\Area de un triangulo(VB)Form\obj\Debug\Area de un triangulo(VB)Form.pdb
